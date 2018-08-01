@@ -1,1 +1,2 @@
-# Core_war\nOpen the pdf subject to understand more about corewar
+# Core_war
+Open the pdf subject to understand more about corewar
